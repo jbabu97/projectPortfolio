@@ -108,5 +108,20 @@ header {
 .about {
     display: flex;
     margin: 20px 100px;
+}
 
+.about_info {
+    margin-top: 30px;
+}
+
+.about_info p {
+    margin: 10px 0;
+}
+
+/* footer */
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 50px;
+    background: linear-gradient(to right, #e9e9e9, #e6b4b4);
 }
